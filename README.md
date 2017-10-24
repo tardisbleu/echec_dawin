@@ -1,5 +1,8 @@
 # Les echecs (Licence pro DAWIN)
 
+Application créée en C++ sur windows
+IDE utilisé : CodeBlocks
+
 ## Fonctionnalité : 
 
 ### Déplacement du pion ✔
