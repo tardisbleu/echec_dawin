@@ -1,0 +1,508 @@
+# depslib dependency file v1.0
+1506543216 source:h:\lesechecs\cavalier.cxx
+	<iostream>
+	"Cavalier.h"
+	<cmath>
+
+1506544202 h"
+
+1506419118 h:\lesechecs\cavalier.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506613552 
+
+1505948762 h:\lesechecs\echiquier.h
+	"Piece.h"
+
+1506420682 h:\lesechecs\piece.h
+
+1506549828 source:h:\lesechecs\echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1506420908 .h"
+
+1506418770 source:h:\lesechecs\fou.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+
+1506418528 h:\lesechecs\fou.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506544202 source:h:\lesechecs\joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+
+1506537880 h:\lesechecs\joueur.h
+	"Echiquier.h"
+
+1506544736 h:\lesechecs\pion.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506417970 h:\lesechecs\roi.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506418836 h:\lesechecs\reine.h
+	"Echiquier.h"
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+
+1506418894 h:\lesechecs\tour.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506420908 source:h:\lesechecs\piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+
+1506543232 source:h:\lesechecs\pion.cxx
+	<iostream>
+	"Pion.h"
+	<cmath>
+
+1506543788 source:h:\lesechecs\reine.cxx
+	<iostream>
+	"Reine.h"
+
+1506543602 source:h:\lesechecs\roi.cxx
+	<iostream>
+	"Roi.h"
+	<cmath>
+
+1506549532 source:h:\lesechecs\testpiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Echiquier.h"
+	"Pion.h"
+
+1506542644 source:h:\lesechecs\tour.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Tour.h"
+
+1506544374 source:h:\lesechecs\joueurblanc.cpp
+	<iostream>
+	"JoueurBlanc.h"
+
+1506544374 nc.h"
+
+1506537864 h:\lesechecs\joueurblanc.h
+	"Joueur.h"
+
+1506544378 source:h:\lesechecs\joueurnoir.cpp
+	<iostream>
+	"JoueurNoir.h"
+
+1506544378 r.h"
+
+1506537890 h:\lesechecs\joueurnoir.h
+	"Joueur.h"
+
+1506546228 source:/media/retorres/CL/LesEchecs/Echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+	<iostream>
+	"Echiquier.h"
+
+1505945162 /media/retorres/CL/LesEchecs/Echiquier.h
+	"Piece.h"
+	"Piece.h"
+
+1506417082 /media/retorres/CL/LesEchecs/Piece.h
+
+1506612946 source:/media/retorres/CL/LesEchecs/Fou.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+
+1506414928 /media/retorres/CL/LesEchecs/Fou.h
+	"Echiquier.h"
+	"Piece.h"
+	"Echiquier.h"
+	"Piece.h"
+
+1506540602 source:/media/retorres/CL/LesEchecs/JOUEUR.CXX
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+
+1506614362 /media/retorres/CL/LesEchecs/Roi.h
+	"Echiquier.h"
+	"Piece.h"
+	"Echiquier.h"
+	"Piece.h"
+
+1506415236 /media/retorres/CL/LesEchecs/Reine.h
+	"Echiquier.h"
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+	"Echiquier.h"
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+
+1506415294 /media/retorres/CL/LesEchecs/Tour.h
+	"Echiquier.h"
+	"Piece.h"
+	"Echiquier.h"
+	"Piece.h"
+
+1506587828 /media/retorres/CL/LesEchecs/Cavalier.h
+	"Echiquier.h"
+	"Piece.h"
+	"Echiquier.h"
+	"Piece.h"
+
+1506540774 source:/media/retorres/CL/LesEchecs/JoueurBlanc.cpp
+	<iostream>
+	"JoueurBlanc.h"
+	<iostream>
+	"JoueurBlanc.h"
+
+1506540778 source:/media/retorres/CL/LesEchecs/JoueurNoir.cpp
+	<iostream>
+	"JoueurNoir.h"
+	<iostream>
+	"JoueurNoir.h"
+
+1506417308 source:/media/retorres/CL/LesEchecs/Piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+
+1506613540 source:/media/retorres/CL/LesEchecs/testPiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Echiquier.h"
+	"Pion.h"
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Echiquier.h"
+	"Pion.h"
+
+1506613494 source:d:\lesechecs\cavalier.cxx
+	<iostream>
+	"Cavalier.h"
+	<cmath>
+
+1506591428 d:\lesechecs\cavalier.h
+	"Echiquier.h"
+	"Piece.h"
+
+1505948762 d:\lesechecs\echiquier.h
+	"Piece.h"
+
+1506420682 d:\lesechecs\piece.h
+
+1506549828 source:d:\lesechecs\echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1506616546 source:d:\lesechecs\fou.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+
+1506418528 d:\lesechecs\fou.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506544202 source:d:\lesechecs\joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+
+1507019518 d:\lesechecs\joueur.h
+	"Echiquier.h"
+
+1506544736 d:\lesechecs\pion.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506617962 d:\lesechecs\roi.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506418836 d:\lesechecs\reine.h
+	"Echiquier.h"
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+
+1506418894 d:\lesechecs\tour.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506544374 source:d:\lesechecs\joueurblanc.cpp
+	<iostream>
+	"JoueurBlanc.h"
+
+1506537864 d:\lesechecs\joueurblanc.h
+	"Joueur.h"
+
+1506544378 source:d:\lesechecs\joueurnoir.cpp
+	<iostream>
+	"JoueurNoir.h"
+
+1506537890 d:\lesechecs\joueurnoir.h
+	"Joueur.h"
+
+1506420908 source:d:\lesechecs\piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+
+1506613510 source:d:\lesechecs\pion.cxx
+	<iostream>
+	"Pion.h"
+	<cmath>
+
+1506543788 source:d:\lesechecs\reine.cxx
+	<iostream>
+	"Reine.h"
+
+1507028684 source:d:\lesechecs\roi.cxx
+	<iostream>
+	"Roi.h"
+	"Pion.h"
+	"Reine.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	<cmath>
+
+1506615826 source:d:\lesechecs\tour.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Tour.h"
+	<cmath>
+
+1507028778 source:d:\lesechecs\testpiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Roi.h"
+	<typeinfo>
+
+1506609894 source:/media/retorres/CL/LesEchecs/Cavalier.cxx
+	<iostream>
+	"Cavalier.h"
+	<cmath>
+
+1506609910 source:/media/retorres/CL/LesEchecs/Pion.cxx
+	<iostream>
+	"Pion.h"
+	<cmath>
+
+1506612226 source:/media/retorres/CL/LesEchecs/Tour.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Tour.h"
+	<cmath>
+
+1507015791 source:/media/retorres/CL/LesEchecs/Roi.cxx
+	<iostream>
+	"Roi.h"
+	<cmath>
+	<typeinfo>
+
+1507015918 /media/retorres/CL/LesEchecs/Joueur.h
+	"Echiquier.h"
+
+1506540602 source:/media/retorres/CL/LesEchecs/Joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+
+1508692666 source:e:\lesechecs\cavalier.cxx
+	<iostream>
+	"Cavalier.h"
+	<cmath>
+
+1508692730 e:\lesechecs\cavalier.h
+	"Echiquier.h"
+	"Piece.h"
+
+1505948762 e:\lesechecs\echiquier.h
+	"Piece.h"
+
+1506420682 e:\lesechecs\piece.h
+
+1506549828 source:e:\lesechecs\echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1508692698 source:e:\lesechecs\fou.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+
+1508692716 e:\lesechecs\fou.h
+	"Echiquier.h"
+	"Piece.h"
+
+1508692850 source:e:\lesechecs\joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Roi.h"
+	"Fou.h"
+	"Reine.h"
+	"Cavalier.h"
+
+1507019518 e:\lesechecs\joueur.h
+	"Echiquier.h"
+
+1506544736 e:\lesechecs\pion.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506617962 e:\lesechecs\roi.h
+	"Echiquier.h"
+	"Piece.h"
+
+1508692238 e:\lesechecs\reine.h
+	"Echiquier.h"
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+
+1508692616 e:\lesechecs\tour.h
+	"Echiquier.h"
+	"Piece.h"
+
+1506544374 source:e:\lesechecs\joueurblanc.cpp
+	<iostream>
+	"JoueurBlanc.h"
+
+1506537864 e:\lesechecs\joueurblanc.h
+	"Joueur.h"
+
+1506544378 source:e:\lesechecs\joueurnoir.cpp
+	<iostream>
+	"JoueurNoir.h"
+
+1506537890 e:\lesechecs\joueurnoir.h
+	"Joueur.h"
+
+1507141524 source:e:\lesechecs\piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+
+1507144716 source:e:\lesechecs\pion.cxx
+	<iostream>
+	"Pion.h"
+	<cmath>
+
+1508692636 source:e:\lesechecs\reine.cxx
+	<iostream>
+	"Reine.h"
+
+1508764712 source:e:\lesechecs\roi.cxx
+	<iostream>
+	"Roi.h"
+	"Pion.h"
+	"Reine.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	<cmath>
+
+1508692652 source:e:\lesechecs\tour.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Tour.h"
+	<cmath>
+
+1508767932 source:e:\lesechecs\testpiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Roi.h"
+	"Reine.h"
+	"Cavalier.h"
+	"service.cxx"
+	<typeinfo>
+
+1507147346 e:\lesechecs\service.cpp
+
+1506544374 source:e:\lesechecs\joueurblanc.cxx
+	<iostream>
+	"JoueurBlanc.h"
+
+1506544378 source:e:\lesechecs\joueurnoir.cxx
+	<iostream>
+	"JoueurNoir.h"
+
+1508767908 e:\lesechecs\service.cxx
+
